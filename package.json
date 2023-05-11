@@ -1,0 +1,15 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "Mon premier projet en TypeScript assisté par cours de plusieurs plateforme de E-learning dont le site officiel de TypeScript https://typescriptlang.org/ où la documentation est très assistée pour permettre de découvrir ce Super JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
