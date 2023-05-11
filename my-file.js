@@ -1,5 +1,6 @@
-function addition(x, y) {
-    return x + y;
+function damage(characterToDamage, amount) {
+    characterToDamage.life -= amount;
+    return characterToDamage.life;
 }
-const result = addition('10', '20');
+var result = damage({ life: 100 }, 12);
 console.log(result);
